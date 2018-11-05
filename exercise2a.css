@@ -15,7 +15,7 @@
 }
 
 #about_yellow li{
-  color:yellow;
+  color:green;
 }
 
 .important{
@@ -24,7 +24,7 @@
 }
 
 ul.nav a{
-  color: white;
-  background-color: red;
+  color: red;
+  background-color: orange;
   text-decoration: underline;
 }
