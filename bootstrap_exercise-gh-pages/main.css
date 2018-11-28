@@ -9,9 +9,14 @@
 }
 
 .jumbotron h1 {
-  font-family: 'Vast Shadow', cursive;
-  color: purple;
+  font-family: 'Pattaya', cursive;
+  color: indigo;
   margin-bottom: 1em;
+}
+
+.text-center {
+  font-size: large;
+  color:#C71585;	
 }
 
 
@@ -29,7 +34,7 @@ blockquote {
 }
 
 .jumbotron label {
-  color: purple;
+  color: #8B008B;
 }
 .jumbotron img {
   margin-top: 50px;
